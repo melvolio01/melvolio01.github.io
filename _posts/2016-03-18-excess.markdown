@@ -1,0 +1,5 @@
+---
+layout: post
+title: Excess (group project)
+---
+<a href="http://excess.herokuapp.com" target="_blank"><img src="/images/fulls/03.jpg" class="fit image" ></a> An API we built for a team project. The API incorporates Google maps to enable users to donate/receive food packages depending based on their geographic location. It was built using Node.js, Express and a MongoDB database. 

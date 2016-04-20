@@ -1,0 +1,6 @@
+---
+layout: post
+title: Voxprop
+---
+
+<a href="https://voxprop.herokuapp.com" target="_blank"><img src="/images/fulls/02.jpg" class="fit image" ></a>An app designed to give London’s renters a chance to provide feedback on their experiences (whether good or bad) with landlords in the city. The app used four models and was built with Ruby/Sinatra with a PostgreSQL database and Bcrypt encryption.
