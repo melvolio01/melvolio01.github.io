@@ -974,6 +974,12 @@
 			width: 6.25em;
 		}
 
+		#blurb {
+			margin-left: 10vw;
+			margin-top: 2vh;
+			margin-bottom: 2vh;
+
+		}
 /* Footer */
 
 	#footer {
@@ -983,6 +989,7 @@
 		position: fixed;
 		text-align: right;
 		width: 35%;
+		opacity: 0.9;
 	}
 
 		#footer .icons {

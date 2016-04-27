@@ -23,11 +23,7 @@ layout: default
                     <section>
                         {{ page.previous.excerpt }}
                     </section>
-                    <footer>
-                        <ul class="actions">
-                            <li><a href="{{ page.previous.url }}" class="button">Read More</a></li>
-                        </ul>
-                    </footer>
+                    
                 </article>
             {% endif %}
             
@@ -40,11 +36,6 @@ layout: default
                     <section>
                         {{ page.next.excerpt | markdownify }}
                     </section>
-                    <footer>
-                        <ul class="actions">
-                            <li><a href="{{ page.next.url }}" class="button">Read More</a></li>
-                        </ul>
-                    </footer>
                 </article>
             {% endif %}
             </div>
